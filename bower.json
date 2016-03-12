@@ -1,0 +1,21 @@
+{
+  "name": "holdyourmoney",
+  "description": "Wallet application.",
+  "main": "index.js",
+  "authors": [
+    "MrLokans <trikster1911@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/MrLokans/HoldYourMoney",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
